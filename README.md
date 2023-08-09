@@ -5,7 +5,7 @@
 const ismael = {
   tecnhologies: 'web',
   passions: 'web development',
-  code: [HTML, CSS, JavaScript],
+  code: [HTML, CSS, JavaScript, JAVA],
   tools:[Sass, Boostrap, Node],
 }
 ```
