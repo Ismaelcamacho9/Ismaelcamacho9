@@ -6,7 +6,7 @@ const ismael = {
   tecnhologies: 'web',
   passions: 'web development',
   code: [HTML, CSS, JavaScript, React, JAVA],
-  tools:[Sass, Boostrap, Node],
+  tools:[Sass, Boostrap, Node, Npm, TailwindCSS, Vite],
 }
 ```
 You can find me 🌍:
