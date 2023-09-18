@@ -1,5 +1,4 @@
 ### Hi I´m Ismael 👋💻
-![fotoredimensionada](https://github.com/Ismaelcamacho9/Ismaelcamacho9/assets/117038371/2c78068d-6bfd-437b-929e-75cfe3d03a31)
 
 ```JS
 const ismael = {
